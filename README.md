@@ -1,1 +1,1 @@
-# single-page
+Single page template
