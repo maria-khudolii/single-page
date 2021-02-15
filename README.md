@@ -1,3 +1,3 @@
-Single page template
-Please have a look at: 
-https://mashimara.github.io/single-page/
+Single page template <br>
+Please have a look at: <br>
+https://maria-khudolii.github.io/single-page/
